@@ -2,7 +2,7 @@
 
 In this project, I developed a popular online word game, Wordle:
 
-[Experience the Game](https://www.word-game-fahad.netlify.app/)
+[Experience the Game](https://word-game-fahad.netlify.app/)
 
 ## How to Participate:
 
